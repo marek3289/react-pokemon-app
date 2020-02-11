@@ -14,10 +14,6 @@ const StyledWrapper = styled.div`
   overflow: hidden;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 
-  @media screen and (max-width: 800px) {
-    max-height: 80%;
-  }
-
   @media screen and (max-width: 500px) {
     width: 85%;
   }

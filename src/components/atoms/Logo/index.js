@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import logoIcon from 'assets/img/logo.png';
 
 const Logo = styled(Link)`
-  margin-left: 15%;
+  margin: 5px 15% 0;
   background-image: url(${logoIcon});
   background-size: 100%;
   background-repeat: no-repeat;
